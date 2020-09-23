@@ -138,7 +138,8 @@ class Event extends Component{
             <div>
                 <div className={'box'}>
                     <div className={'year'}>
-                            <img src={this.props.year} style={{height:'180%'}}/>
+                            {/* <img src={this.props.year} style={{height:'180%'}}/> */}
+                            <h1>{this.props.year}</h1>
                     </div>
                     <div className={'containered'}>
                         <LeftArrow opeds={this.props.opeds} year={this.props.year}/>
