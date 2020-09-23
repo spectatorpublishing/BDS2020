@@ -14,7 +14,7 @@ class DownArrow extends Component{
 
     handleClick(){
         let allcontain = document.getElementById('allcontain');
-        if (position < (4)) {
+        if (position < (1)) {
             position++;
             let current = allcontain.style.transform;
             let pos = parseInt(current.match(/-?[0-9]+/));
@@ -85,11 +85,11 @@ class App extends Component {
 
     incrementActiveItem(){
         let i = this.state.activeItem+1;
-        if (i === 4){
+        if (i === 1){
             let a = document.getElementsByClassName("downArrow")[0];
             a.style.opacity = 0.33;
         }
-        if (i > 4){
+        if (i > 1){
             let a = document.getElementsByClassName("downArrow")[0];
             a.style.opacity = 0.33;
             return;
@@ -271,7 +271,6 @@ class App extends Component {
                 </div>
                 </div>
                 <DownArrow updateActive={this.incrementActiveItem}/>
-
             </div>
         );
     }
