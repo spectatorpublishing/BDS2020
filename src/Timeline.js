@@ -7,7 +7,7 @@ const TimelineWrapper = styled.div`
     position: relative;
     width: 5vw;
     height: ${timelineHeight + 'px'};
-    top:37.5vh;
+    top:20vh;
 `
 
 const TimelineLine = styled.div`

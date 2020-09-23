@@ -109,6 +109,7 @@
 .allcontainer{
   overflow-y: hidden;
   height: 50vh;
+  margin-top:-120px;
 }
 
 .allcontain{
@@ -123,7 +124,7 @@
 
 .upArrowArrow{
   position: absolute;
-  bottom: 0%;
+  bottom: 30% !important;
   transform: translateX(-50%);
   width: 100px;
 }
