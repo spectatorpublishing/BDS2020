@@ -136,8 +136,7 @@ class App extends Component {
                     </div>
                     <div className={'credits'}>
                         <p>Illustration by Brenda Huang</p>
-                        <p>Design by David Wang</p>
-                        <p>Engineering by Luke Dobrović</p>
+                        <p>Engineering by McKenna Gillard and Hong Sen Du</p>
                     </div>
                     {/* <img className={'thepath'} src={'https://catfish.columbiaspectator.com/videos/ThePath.svg'} style={{opacity:0.0}}/> */}
                     <div className={'letter'}>
@@ -146,27 +145,24 @@ class App extends Component {
                     <div className="letter-content">
                         <p>Dear readers,</p><p>
 
-                            Outside of the classroom, I find that personal growth and moral inquiry are often inadvertently regarded as separate dispositions at Columbia. When in class, we maintain that to shape and alter society is to scribble down a thought and raise our hands. Yet upon leaving the classroom, it seems that for many, notions of change and the responsibility to act recoil inward. </p><p>
-
-                            Are discussions on justice, equality, race, or class only of “worth” when they lead to a Columbia degree or are the impassioned arguments I’ve heard in class catalyzed by something more? </p><p>
-
-                            In the wake of the death of George Floyd and the subsequent protests, I am skeptical about how long this persistent hum of morals being released from their restraints will continue. However, while it lasts, I encourage the exploration of this phenomena—internal morality’s exposure to the outside world. I fundamentally believe that personal growth and moral inquiry are, in effect, the same thing.  </p><p>
-
-                            In your pursuit of morality and personal growth, I urge you to read through some of the experiences of and injustices suffered by the Black community at the hands of students and Columbia itself over the past four years. The purpose of this scope is to promote sustained action, so I also implore you to treat it as more than a class reading and aim to deeply engage with it. I hope you will continue to seek a better understanding of not only your peers and the greater Black community, but also other oppressed people grappling with racism in America. </p><p>
-
-                            Each piece will have an icon that corresponds with its general theme for increased accessibility and absorption:</p>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DQYXU4AKQFDTTGKN5LVPZ33774.png"></img>Administrative: What is the impact of institutional racism?</div>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OHLML5GTFVBC3NLCWJY6FZ6SYM.png"></img>Student Life: What is the impact of anti-Blackness?</div>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YJCTG4CADVFV3NUQVONGVZ5YIY.png"></img>Student Life: What is the Black experience at Columbia?</div>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MFYJEBOIYNBJTNYGQHB3O6PAZY.png"></img>City: What is Columbia’s impact on Harlem and other predominantly Black communities?</div>
-
+                            Last November, the Columbia College Student Council voted to place a question on its next ballot after a tumultuous four-year saga where the vote failed to pass twice. The question reads: </p>
+                        <div className={'center'}>
+                            Should Columbia University divest its stocks, funds, and endowment from companies that profit from or engage in the State of Israel’s acts toward Palestinians that, according to Columbia University Apartheid Divest (CUAD), fall under the United Nations International Convention of the Suppression and Punishment of the Crime of Apartheid?
+                        </div>
                         <p>
 
-                            So much is currently unknown, but I hope that you find some meaning in reading what is. </p><p>
+                            After months of delay due to COVID-19, Columbia College students are now scheduled to vote on this question between September 22 and September 25, 2020.
 
-                            Sincerely,</p><p>
-                            Tamarah Wallace</p><p>
-                            Editorial Page Editor</p>
+                            The Boycott, Divest, and Sanction movement advocates for colleges and universities to divest their endowments from companies that the movement claims profit off of Israeli aggression toward Palestine. As a member of the Columbia community, I know how contentious the topics of BDS, Palestine, and Israel can be on campus. Hopefully, this digital platform and the review of our predecessors' arguments will enable us to better engage in the critical inquiry of each side of the debate.
+
+                            On behalf of myself and the editorial team, I urge you to read critically and consciously reexamine your own beliefs and positions if you are introduced to new perspectives within this scope.
+
+                            Lastly, I would impress upon you that we strove to curate and edit these pieces devoid of any personal biases.
+                            </p><p>
+
+                            Warmly,</p><p>
+                            Ryan Oden</p><p>
+                            Administrative Deputy Editorial Page Editor</p>
                     </div>
                     <div className="timeline-title">
                         EXPLORE PIECES
