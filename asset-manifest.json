@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BDS2020/static/css/main.32b1e33f.chunk.css",
+    "main.css": "/BDS2020/static/css/main.cc824d3d.chunk.css",
     "main.js": "/BDS2020/static/js/main.1ed21329.chunk.js",
     "main.js.map": "/BDS2020/static/js/main.1ed21329.chunk.js.map",
     "runtime-main.js": "/BDS2020/static/js/runtime-main.8f86af47.js",
@@ -8,15 +8,15 @@
     "static/js/2.3d60ebd4.chunk.js": "/BDS2020/static/js/2.3d60ebd4.chunk.js",
     "static/js/2.3d60ebd4.chunk.js.map": "/BDS2020/static/js/2.3d60ebd4.chunk.js.map",
     "index.html": "/BDS2020/index.html",
-    "precache-manifest.1ab98db4b9ebde17239fab9d790117da.js": "/BDS2020/precache-manifest.1ab98db4b9ebde17239fab9d790117da.js",
+    "precache-manifest.a08cfa060eb12523bffe7edc59e66943.js": "/BDS2020/precache-manifest.a08cfa060eb12523bffe7edc59e66943.js",
     "service-worker.js": "/BDS2020/service-worker.js",
-    "static/css/main.32b1e33f.chunk.css.map": "/BDS2020/static/css/main.32b1e33f.chunk.css.map",
+    "static/css/main.cc824d3d.chunk.css.map": "/BDS2020/static/css/main.cc824d3d.chunk.css.map",
     "static/js/2.3d60ebd4.chunk.js.LICENSE.txt": "/BDS2020/static/js/2.3d60ebd4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8f86af47.js",
     "static/js/2.3d60ebd4.chunk.js",
-    "static/css/main.32b1e33f.chunk.css",
+    "static/css/main.cc824d3d.chunk.css",
     "static/js/main.1ed21329.chunk.js"
   ]
 }
