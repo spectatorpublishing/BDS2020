@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ac8a40459cc829a428fd0913bd9d050",
+    "revision": "b992cfe0ee32685b775683ef6d6b43f5",
     "url": "/BDS2020/index.html"
   },
   {
-    "revision": "992aeb945a4c172a2d18",
-    "url": "/BDS2020/static/css/main.cc824d3d.chunk.css"
+    "revision": "3b4d46524969670fe62a",
+    "url": "/BDS2020/static/css/main.0a2acf3d.chunk.css"
   },
   {
     "revision": "329d008791e5f444fee6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BDS2020/static/js/2.3d60ebd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "992aeb945a4c172a2d18",
+    "revision": "3b4d46524969670fe62a",
     "url": "/BDS2020/static/js/main.1ed21329.chunk.js"
   },
   {
