@@ -36,8 +36,8 @@ class DownArrow extends Component {
     render() {
         return (
             <div className={'downArrow'} onClick={this.handleClick.bind(this)}>
-                <img className={'downArrowArrow'} src={'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3HEVEYZCMZEYJPCHS3U44TLXGY.png'}
-                    style={{ transform: 'rotate(180deg)' }} />
+                <div className={'downArrowArrow'}
+                     />
             </div>)
     }
 }
@@ -66,7 +66,7 @@ class UpArrow extends Component {
     render() {
         return (
             <div className={'upArrow'} onClick={this.handleClick.bind(this)} style={{ opacity: '0.33' }}>
-                <img className={'upArrowArrow'} src={'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3HEVEYZCMZEYJPCHS3U44TLXGY.png'} />
+                <div className={'upArrowArrow'} />
             </div>
         )
     }

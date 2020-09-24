@@ -6,6 +6,7 @@
   <style>
     @import url(https://fonts.googleapis.com/css?family=Rubik:400,500,700);
     @import url(https://fonts.googleapis.com/css?family=Bitter);
+    @import url(https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap);
     @font-face {
         font-family: Oswald;
         src: url(${contextRoot}/resources/fonts/Oswald-Demi-BoldItalic.ttf);
@@ -15,6 +16,7 @@
         font-family: Whitney;
         src: url(${contextRoot}/resources/fonts/whitney-medium.otf);
     }
+    
     body {
       margin: 0;
       padding:0;

@@ -63,8 +63,7 @@ class RightArrow extends Component{
     render(){
         return(
             <div className={'rightArrow'} id={this.props.year + "right"} onClick={this.handleClick.bind(this)} style={{opacity: this.checkOpac()}}>
-                <img className={'rightArrowArrow'} src={'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3HEVEYZCMZEYJPCHS3U44TLXGY.png'}
-                style = {{transform:'rotate(90deg)'}}/>
+                <div className={'rightArrowArrow'} />
             </div>
         )
     }
@@ -110,8 +109,7 @@ class LeftArrow extends Component{
     render(){
         return(
             <div className={'leftArrow'} id={this.props.year + "left"} onClick={this.handleClick.bind(this)} style={{opacity: '0.5'}}>
-                <img className={'leftArrowArrow'} src={'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3HEVEYZCMZEYJPCHS3U44TLXGY.png'}
-                style = {{transform:'rotate(-90deg)'}}/>
+                <div className={'leftArrowArrow'} />
             </div>        )
     }
 }
