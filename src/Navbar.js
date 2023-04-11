@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import styled from 'styled-components';
 import './Fontfaces.css'
 
-const cdsLogo = "https://www.columbiaspectator.com/pb/resources/img/CDSwhitemasthead.png"
+const cdsLogo = "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LC75RL476NFG3P677LOBAW2MXE.png"
 
 const NavWrap = styled.div`
     position: fixed;
